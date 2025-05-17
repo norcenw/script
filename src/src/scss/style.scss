@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@source "../views";
+
+@use "sass:list";
+@use "sass:math";
+@import "_partials/_variables.scss";
+@import "_partials/_header.scss";
+@import "_partials/_footer.scss";
+@import "_partials/_common.scss";
+@import "_partials/_media-query.scss";

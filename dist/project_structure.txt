@@ -1,0 +1,31 @@
+/mio-progetto-electron
+│── assets
+│   │── icon
+│   │── img
+│   └── libraries
+│       └── translator.min.js
+│── docs
+│   │── css
+│   │   └── style.css
+│   │── index.html
+│   │── js
+│   │   │── app.js
+│   │   └── dict.js
+│   └── mix-manifest.json
+│── package-lock.json
+│── package.json
+│── src
+│   │── index.html
+│   │── js
+│   │   │── app.js
+│   │   └── dict.js
+│   └── scss
+│       │── _partials
+│       │   │── _common.scss
+│       │   │── _footer.scss
+│       │   │── _header.scss
+│       │   │── _media-query.scss
+│       │   │── _variables.scss
+│       │   └── _warehouse.scss
+│       └── style.scss
+└── webpack.mix.js
